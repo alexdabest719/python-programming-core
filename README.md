@@ -8,7 +8,7 @@ A command-line Dealership Management System built to demonstrate comprehensive P
 * **OOP Design:** Utilizes class inheritance (`Vehicle` -> `Car`, `Truck`) and polymorphism.
 * **Data Security:** Implements `@property` decorators for strict data validation (e.g., preventing negative vehicle prices).
 * **Persistence:** Handles automated data parsing and file I/O exporting to CSV formats.
-* **Testing:** Fully validated with an automated `pytest` suite (`test_project.py`).
+* **Testing:** Fully validated with an automated `pytest` suite (`test_dealership_os_project.py`).
 
 ---
 
